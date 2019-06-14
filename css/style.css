@@ -1,0 +1,55 @@
+.logo1 {
+	margin: 0 auto;
+}
+.img-fluid{
+	max-width: 100%;
+}
+.text-center {
+	text-align: center;
+}
+
+.titulos {
+	color: #14a8a9 !important;
+	font-size: 20px;
+	padding: 20px;
+}
+
+.subtitulos {
+	color: #14a8a9 !important;
+	font-size: 16px;
+}
+
+.navbar {
+	background-color: #14a8a9 !important;
+}
+
+.panel{
+	background-color: #f29799 !important;
+	color: #fff;
+}
+
+.textos-panel {
+	font-size: 18px;
+}
+
+.nombre {
+	color: #14a8a9 !important;
+	font-size: 18px;
+	font-weight: 700;
+	text-align: center;
+}
+
+.hospital{
+	color: #f29799 !important;
+	font-size: 14px;
+	text-align: center;
+}
+
+.parrafos {
+	text-align: center;
+}
+
+.slider-img{
+	width: 200px; 
+	margin: 0 auto;
+}

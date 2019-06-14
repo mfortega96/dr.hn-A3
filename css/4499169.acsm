@@ -1,0 +1,29 @@
+<fulfillmentToken fulfillmentType="loan" auth="user" xmlns="http://ns.adobe.com/adept">
+  <distributor>urn:uuid:9cb786e8-586a-4950-8901-fff8d2ee6025</distributor>
+  <operatorURL>http://acs.ebookcentral.proquest.com/fulfillment</operatorURL>
+  <transaction>4499169_160829200</transaction>
+  <expiration>2019-06-05T11:14:15-07:00</expiration>
+  <resourceItemInfo>
+    <resource>urn:uuid:00000000-0000-0000-0000-000004499169</resource>
+    <resourceItem>0</resourceItem>
+    <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Harrison: principios de medicina interna. Vol. I (17a. ed.)</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Fauci, Anthony S.; Braunwald, Eugene; Kasper, Dennis L.</dc:creator>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">McGraw-Hill Interamericana</dc:publisher>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">4499169</dc:identifier>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">application/pdf</dc:format>
+    </metadata>
+    <licenseToken>
+      <resource>urn:uuid:00000000-0000-0000-0000-000004499169</resource>
+      <permissions>
+        <display>
+          <duration>86399</duration>
+        </display>
+        <play>
+          <duration>86399</duration>
+        </play>
+      </permissions>
+    </licenseToken>
+  </resourceItemInfo>
+  <hmac>Sx9OuTRWU9+vPiApOibTiH2KOB8=</hmac>
+</fulfillmentToken>

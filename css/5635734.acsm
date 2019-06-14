@@ -1,0 +1,37 @@
+<fulfillmentToken fulfillmentType="loan" auth="user" xmlns="http://ns.adobe.com/adept">
+  <distributor>urn:uuid:9cb786e8-586a-4950-8901-fff8d2ee6025</distributor>
+  <operatorURL>http://acs.ebookcentral.proquest.com/fulfillment</operatorURL>
+  <transaction>5635734_160830678</transaction>
+  <expiration>2019-06-05T11:27:36-07:00</expiration>
+  <resourceItemInfo>
+    <resource>urn:uuid:00000000-0000-0000-0000-000005635734</resource>
+    <resourceItem>0</resourceItem>
+    <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Metodología de la investigación: así de fácil</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Fresno Chávez, Caridad; </dc:creator>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">El Cid Editor</dc:publisher>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">5635734</dc:identifier>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">application/pdf</dc:format>
+    </metadata>
+    <licenseToken>
+      <resource>urn:uuid:00000000-0000-0000-0000-000005635734</resource>
+      <permissions>
+        <display>
+          <duration>86399</duration>
+        </display>
+        <excerpt>
+          <duration>86399</duration>
+          <count initial="63" max="63" incrementInterval="1371"/>
+        </excerpt>
+        <print>
+          <duration>86399</duration>
+          <count initial="63" max="63" incrementInterval="1371"/>
+        </print>
+        <play>
+          <duration>86399</duration>
+        </play>
+      </permissions>
+    </licenseToken>
+  </resourceItemInfo>
+  <hmac>5OjWgISwMvtWLuHP3KTuOI5HD2c=</hmac>
+</fulfillmentToken>
